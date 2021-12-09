@@ -7,6 +7,9 @@ bash <(curl -s https://raw.githubusercontent.com/varnamproject/govarnam/master/q
 ```
 varnamcli -s ml namaskaaram
 ```
+```
+varnamcli -s ml enthaa
+```
   
   <p>It should give malayalam suggestions if installation is successful.
 
